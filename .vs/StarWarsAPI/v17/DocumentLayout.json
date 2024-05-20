@@ -1,18 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Natan\\source\\repos\\StarWarsAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\Natan\\source\\repos\\StarWars_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{865E9E3A-D4DA-41E5-BADE-44FAB2F407F9}|StarWarsAPI\\StarWarsAPI.csproj|c:\\users\\natan\\source\\repos\\starwarsapi\\starwarsapi\\starwarsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{865E9E3A-D4DA-41E5-BADE-44FAB2F407F9}|StarWarsAPI\\StarWarsAPI.csproj|c:\\users\\natan\\source\\repos\\starwars_api\\starwarsapi\\controllers\\starwarscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865E9E3A-D4DA-41E5-BADE-44FAB2F407F9}|StarWarsAPI\\StarWarsAPI.csproj|solutionrelative:starwarsapi\\controllers\\starwarscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865E9E3A-D4DA-41E5-BADE-44FAB2F407F9}|StarWarsAPI\\StarWarsAPI.csproj|c:\\users\\natan\\source\\repos\\starwars_api\\starwarsapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865E9E3A-D4DA-41E5-BADE-44FAB2F407F9}|StarWarsAPI\\StarWarsAPI.csproj|solutionrelative:starwarsapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865E9E3A-D4DA-41E5-BADE-44FAB2F407F9}|StarWarsAPI\\StarWarsAPI.csproj|c:\\users\\natan\\source\\repos\\starwars_api\\starwarsapi\\starwarsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{865E9E3A-D4DA-41E5-BADE-44FAB2F407F9}|StarWarsAPI\\StarWarsAPI.csproj|solutionrelative:starwarsapi\\starwarsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{865E9E3A-D4DA-41E5-BADE-44FAB2F407F9}|StarWarsAPI\\StarWarsAPI.csproj|c:\\users\\natan\\source\\repos\\starwarsapi\\starwarsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natan\\source\\repos\\StarWars_API\\StarWarsAPI\\Migrations\\20240520135217_StarWars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StarWarsAPI\\Migrations\\20240520135217_StarWars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865E9E3A-D4DA-41E5-BADE-44FAB2F407F9}|StarWarsAPI\\StarWarsAPI.csproj|c:\\users\\natan\\source\\repos\\starwars_api\\starwarsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{865E9E3A-D4DA-41E5-BADE-44FAB2F407F9}|StarWarsAPI\\StarWarsAPI.csproj|solutionrelative:starwarsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{865E9E3A-D4DA-41E5-BADE-44FAB2F407F9}|StarWarsAPI\\StarWarsAPI.csproj|c:\\users\\natan\\source\\repos\\starwarsapi\\starwarsapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{865E9E3A-D4DA-41E5-BADE-44FAB2F407F9}|StarWarsAPI\\StarWarsAPI.csproj|c:\\users\\natan\\source\\repos\\starwars_api\\starwarsapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{865E9E3A-D4DA-41E5-BADE-44FAB2F407F9}|StarWarsAPI\\StarWarsAPI.csproj|solutionrelative:starwarsapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865E9E3A-D4DA-41E5-BADE-44FAB2F407F9}|StarWarsAPI\\StarWarsAPI.csproj|c:\\users\\natan\\source\\repos\\starwars_api\\starwarsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{865E9E3A-D4DA-41E5-BADE-44FAB2F407F9}|StarWarsAPI\\StarWarsAPI.csproj|solutionrelative:starwarsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865E9E3A-D4DA-41E5-BADE-44FAB2F407F9}|StarWarsAPI\\StarWarsAPI.csproj|c:\\users\\natan\\source\\repos\\starwars_api\\starwarsapi\\models\\starwars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865E9E3A-D4DA-41E5-BADE-44FAB2F407F9}|StarWarsAPI\\StarWarsAPI.csproj|solutionrelative:starwarsapi\\models\\starwars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +47,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StarWarsAPI",
-              "DocumentMoniker": "C:\\Users\\Natan\\source\\repos\\StarWarsAPI\\StarWarsAPI\\StarWarsAPI.csproj",
-              "RelativeDocumentMoniker": "StarWarsAPI\\StarWarsAPI.csproj",
-              "ToolTip": "C:\\Users\\Natan\\source\\repos\\StarWarsAPI\\StarWarsAPI\\StarWarsAPI.csproj",
-              "RelativeToolTip": "StarWarsAPI\\StarWarsAPI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-20T12:21:06.818Z",
+              "Title": "StarWarsController.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\source\\repos\\StarWars_API\\StarWarsAPI\\Controllers\\StarWarsController.cs",
+              "RelativeDocumentMoniker": "StarWarsAPI\\Controllers\\StarWarsController.cs",
+              "ToolTip": "C:\\Users\\Natan\\source\\repos\\StarWars_API\\StarWarsAPI\\Controllers\\StarWarsController.cs",
+              "RelativeToolTip": "StarWarsAPI\\Controllers\\StarWarsController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:11:44.496Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\Natan\\source\\repos\\StarWarsAPI\\StarWarsAPI\\Startup.cs",
-              "RelativeDocumentMoniker": "StarWarsAPI\\Startup.cs",
-              "ToolTip": "C:\\Users\\Natan\\source\\repos\\StarWarsAPI\\StarWarsAPI\\Startup.cs",
-              "RelativeToolTip": "StarWarsAPI\\Startup.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBQAAAA/AAAA",
+              "Title": "StarWarsAPI",
+              "DocumentMoniker": "C:\\Users\\Natan\\source\\repos\\StarWars_API\\StarWarsAPI\\StarWarsAPI.csproj",
+              "RelativeDocumentMoniker": "StarWarsAPI\\StarWarsAPI.csproj",
+              "ToolTip": "C:\\Users\\Natan\\source\\repos\\StarWars_API\\StarWarsAPI\\StarWarsAPI.csproj",
+              "RelativeToolTip": "StarWarsAPI\\StarWarsAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-20T14:05:03.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240520135217_StarWars.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\source\\repos\\StarWars_API\\StarWarsAPI\\Migrations\\20240520135217_StarWars.cs",
+              "RelativeDocumentMoniker": "StarWarsAPI\\Migrations\\20240520135217_StarWars.cs",
+              "ToolTip": "C:\\Users\\Natan\\source\\repos\\StarWars_API\\StarWarsAPI\\Migrations\\20240520135217_StarWars.cs",
+              "RelativeToolTip": "StarWarsAPI\\Migrations\\20240520135217_StarWars.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T12:21:21.238Z",
+              "WhenOpened": "2024-05-20T13:52:18.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Natan\\source\\repos\\StarWars_API\\StarWarsAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "StarWarsAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Natan\\source\\repos\\StarWars_API\\StarWarsAPI\\appsettings.json",
+              "RelativeToolTip": "StarWarsAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T13:46:56.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\source\\repos\\StarWars_API\\StarWarsAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "StarWarsAPI\\Startup.cs",
+              "ToolTip": "C:\\Users\\Natan\\source\\repos\\StarWars_API\\StarWarsAPI\\Startup.cs",
+              "RelativeToolTip": "StarWarsAPI\\Startup.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:45:04.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\source\\repos\\StarWars_API\\StarWarsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "StarWarsAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Natan\\source\\repos\\StarWars_API\\StarWarsAPI\\Program.cs",
+              "RelativeToolTip": "StarWarsAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:45:03.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StarWars.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\source\\repos\\StarWars_API\\StarWarsAPI\\Models\\StarWars.cs",
+              "RelativeDocumentMoniker": "StarWarsAPI\\Models\\StarWars.cs",
+              "ToolTip": "C:\\Users\\Natan\\source\\repos\\StarWars_API\\StarWarsAPI\\Models\\StarWars.cs",
+              "RelativeToolTip": "StarWarsAPI\\Models\\StarWars.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:39:06.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Natan\\source\\repos\\StarWarsAPI\\StarWarsAPI\\Program.cs",
-              "RelativeDocumentMoniker": "StarWarsAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Natan\\source\\repos\\StarWarsAPI\\StarWarsAPI\\Program.cs",
-              "RelativeToolTip": "StarWarsAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\source\\repos\\StarWars_API\\StarWarsAPI\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StarWarsAPI\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Natan\\source\\repos\\StarWars_API\\StarWarsAPI\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "StarWarsAPI\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T11:51:42.001Z",
+              "WhenOpened": "2024-05-20T13:38:35.365Z",
               "EditorCaption": ""
             }
           ]

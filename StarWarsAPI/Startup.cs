@@ -1,4 +1,5 @@
-﻿using System.Configuration;
+﻿using Microsoft.EntityFrameworkCore;
+using StarWarsAPI.Context;
 
 namespace StarWarsAPI
 {
@@ -16,6 +17,7 @@ namespace StarWarsAPI
             services.AddControllers();
             services.AddEndpointsApiExplorer();
             services.AddSwaggerGen();
+            services.AddDbContext<AppDbContext>(option => option.UseSqlServer(Configuration.GetConnectionString("ServerConnection")));
         }
 
         public void Configure(WebApplication app, IWebHostEnvironment environment)
@@ -28,8 +30,11 @@ namespace StarWarsAPI
             }
 
             app.UseHttpsRedirection();
+
             app.UseAuthorization();
+
             app.MapControllers();
+
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Natan\\source\\repos\\StarWarsAPI\\StarWarsAPI\\StarWarsAPI.csproj": {}
+    "C:\\Users\\Natan\\source\\repos\\StarWars_API\\StarWarsAPI\\StarWarsAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Natan\\source\\repos\\StarWarsAPI\\StarWarsAPI\\StarWarsAPI.csproj": {
+    "C:\\Users\\Natan\\source\\repos\\StarWars_API\\StarWarsAPI\\StarWarsAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Natan\\source\\repos\\StarWarsAPI\\StarWarsAPI\\StarWarsAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Natan\\source\\repos\\StarWars_API\\StarWarsAPI\\StarWarsAPI.csproj",
         "projectName": "StarWarsAPI",
-        "projectPath": "C:\\Users\\Natan\\source\\repos\\StarWarsAPI\\StarWarsAPI\\StarWarsAPI.csproj",
+        "projectPath": "C:\\Users\\Natan\\source\\repos\\StarWars_API\\StarWarsAPI\\StarWarsAPI.csproj",
         "packagesPath": "C:\\Users\\Natan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Natan\\source\\repos\\StarWarsAPI\\StarWarsAPI\\obj\\",
+        "outputPath": "C:\\Users\\Natan\\source\\repos\\StarWars_API\\StarWarsAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Natan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,6 +64,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore": {
               "target": "Package",
